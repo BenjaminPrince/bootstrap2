@@ -1,0 +1,89 @@
+/* Vos customisations des classes de Bootstrap */
+
+body{
+    font-family: Arvo;
+ }   
+
+
+#home{
+    color: white;
+    background-image: url("/bootstrap-onemillionlines-master/Dossier/images/hero-image.jpg");
+}
+
+#home p {
+    font-family: helvetica;
+}
+
+.modal-style{
+    height: 80vh;
+    width: 100%;
+}
+.iframe{
+width: 100%;
+height: 100%;
+}
+#who{
+    background-color: white;
+}
+
+ h2{
+    color: RED;
+    font-weight: arvo;
+}
+h3{
+    color: red;
+}
+
+#who a{
+    color: red;
+    text-decoration: none;
+}
+
+#who p{
+    font-family: helvetica;
+}
+
+#who hr{
+    width: 200px;
+    background-color: red;
+}
+
+#get-involved {
+    background-color: rgb(243, 242, 242);
+}
+
+#get-involved {
+    font-family: helvetica;
+}
+
+footer{
+    background-color: RED;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+.col a{
+    color:red
+}
+.scroll-top{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    z-index: 500;
+}
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
